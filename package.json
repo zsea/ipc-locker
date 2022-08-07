@@ -1,0 +1,16 @@
+{
+  "name": "@zsea/ipc-locker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test\\test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zsea/ipc-locker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
